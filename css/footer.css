@@ -1,0 +1,55 @@
+.footer1 {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background-color: black;
+  padding: 50px 0;
+}
+
+.footer1-title1 {
+  color: var(--white);
+}
+
+.s1 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.ss2 {
+  width: 250px;
+}
+
+.s2 {
+  font-size: 25px;
+}
+
+.footer1-title2 {
+  color: var(--white);
+}
+
+.footer1-title3 {
+  color: var(--white);
+}
+
+.footer1-title4 {
+  color: var(--white);
+}
+.footer1-title4 input {
+  width: 200px;
+  height: 25px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.footer1-title4 button {
+  border: 2px solid yellow;
+  border-radius: 10px;
+  width: 100px;
+  background-color: yellow;
+}
+
+.footer2 {
+  color: var(--white);
+  text-align: center;
+  background-color: black;
+}
